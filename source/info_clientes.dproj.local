@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/28 10:22:54.000.300,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/28 14:20:19.000.044,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/18 17:01:16.000.261,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/20 15:53:53.000.534,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/24 17:25:22.000.441,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/24 17:41:46.000.226,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/25 08:33:29.000.653,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/29 14:50:07.000.844,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/12/30 15:32:44.000.985,=C:\Users\Isaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/05 14:31:55.000.474,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/05 16:09:34.000.225,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/07 16:06:36.000.262,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/07 16:07:26.000.878,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/07 16:07:27.000.116,=E:\Documentos Elite\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2016/01/07 16:07:27.000.008,=E:\Documentos Elite\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/01/12 17:01:57.000.603,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/03/17 09:55:05.000.559,=F:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/03/17 10:36:29.000.901,=F:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/03/17 17:21:14.000.501,=F:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/05 16:37:33.000.600,=F:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/19 10:56:20.000.588,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/19 11:30:59.000.379,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/19 11:30:59.000.512,=E:\Documentos Elite\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/05/19 11:31:08.000.766,=E:\Documentos Elite\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2017/11/01 11:23:49.000.192,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/22 19:56:22.000.699,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/25 09:49:14.000.564,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/25 11:17:37.000.530,=E:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/08 10:51:14.000.149,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/16 10:14:08.000.822,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/29 11:35:04.000.722,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/02/13 16:31:49.000.463,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/18 15:19:12.000.438,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/21 10:03:05.000.597,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/26 11:04:23.000.367,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/11 16:38:09.000.180,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/11 10:35:34.000.119,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/04 11:55:06.000.995,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/04 11:55:09.000.501,=D:\Documentos Elite\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2020/02/04 11:55:09.000.190,=D:\Documentos Elite\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2020/02/04 12:09:40.000.774,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/04 12:15:49.000.908,=D:\Documentos Elite\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2020/02/04 12:15:49.000.499,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/04 12:15:50.000.189,=D:\Documentos Elite\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2020/11/04 22:17:03.000.566,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/11 21:59:54.000.978,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/29 17:59:43.000.743,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/29 21:40:40.000.640,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/29 21:49:35.000.940,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/29 21:52:10.000.238,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/29 21:54:51.000.312,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/20 00:48:19.000.550,=D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/20 00:49:13.000.344,D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.dfm=C:\teste_info\source\uMenu.dfm</Transaction>
+    <Transaction>2022/01/20 00:49:13.000.344,D:\Documentos Elite\Embarcadero\Studio\Projects\Unit1.pas=C:\teste_info\source\uMenu.pas</Transaction>
+    <Transaction>2022/01/20 00:49:27.000.856,D:\Documentos Elite\Embarcadero\Studio\Projects\Project1.dproj=C:\teste_info\source\info_clientes.dproj</Transaction>
+    <Transaction>2022/01/20 15:18:17.000.732,=C:\teste_info\source\Unit1.pas</Transaction>
+    <Transaction>2022/01/20 15:18:36.000.864,C:\teste_info\source\Unit1.dfm=C:\teste_info\source\uDm.dfm</Transaction>
+    <Transaction>2022/01/20 15:18:36.000.864,C:\teste_info\source\Unit1.pas=C:\teste_info\source\uDm.pas</Transaction>
+    <Transaction>2022/01/20 17:04:34.000.836,=C:\teste_info\source\uCadastroCliente.pas</Transaction>
+    <Transaction>2022/01/20 17:25:04.000.061,=C:\teste_info\lib\uLib.pas</Transaction>
+  </Transactions>
+</BorlandProject>
