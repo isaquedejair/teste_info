@@ -1,0 +1,2 @@
+Pré-requisito para funcionamento do sistema, e instalar o ACBRMail, segue abaixo o link do repositório do mesmo:
+svn://svn.code.sf.net/p/acbr/code/trunk2
